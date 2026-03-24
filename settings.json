@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KyokiEmpire.aternos.me:,
+    "ip": "KyokiEmpire.aternos.me",
     "port": 22947,
     "version": "",
     "try-creative": false
